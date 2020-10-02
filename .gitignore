@@ -1,0 +1,8 @@
+venv
+_coursera
+data
+.idea
+__pycache__
+*.pyc
+solution
+repeater.py
